@@ -1,0 +1,49 @@
+############################
+# Build output
+############################
+/target/
+/build/
+
+############################
+# IDE & Editor files
+############################
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+############################
+# OS generated files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Logs & crash reports
+############################
+logs/
+*.log
+crash-reports/
+
+############################
+# Local server files
+############################
+world/
+world_nether/
+world_the_end/
+plugins/
+cache/
+
+############################
+# Runtime data (optional)
+############################
+data/runtime/
+data/saves/
+
+############################
+# Optional local configs
+############################
+config.local.yml
+*.local.yml
