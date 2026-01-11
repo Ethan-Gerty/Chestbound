@@ -1,0 +1,4 @@
+name: Chestbound
+version: '0.0.1'
+main: com.ethangerty.chestbound.Chestbound
+api-version: '1.21'
