@@ -2,3 +2,11 @@ name: Chestbound
 version: '0.0.1'
 main: com.ethangerty.chestbound.Chestbound
 api-version: '1.21'
+load: STARTUP
+description: A Card Game Inside Of Minecraft
+author: Ethan Gerty
+commands:
+  chestbound:
+    description: Chestbound main command
+    usage: /chestbound <challenge|accept> [player]
+    aliases: [cb]
