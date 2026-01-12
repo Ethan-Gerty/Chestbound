@@ -8,5 +8,5 @@ author: Ethan Gerty
 commands:
   chestbound:
     description: Chestbound main command
-    usage: /chestbound <challenge|accept> [player]
+    usage: /chestbound <challenge|accept|decline|itemStats>
     aliases: [cb]
